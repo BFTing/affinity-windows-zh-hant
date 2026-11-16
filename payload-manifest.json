@@ -1,0 +1,103 @@
+{
+  "version": "3.3.3.5004",
+  "architecture": "x64",
+  "culture": "zh-Hant",
+  "files": [
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/abbreviations.strings",
+      "sha256": "4f16529896fa95145aef91acc043993cf6e440c4a2ec6f648babc5a8f50d3ec8"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/adjustments.strings",
+      "sha256": "107fc086d11fc4d74b0d47db1e608411f78d8054613b18def3215c3c74847c42"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/assets.strings",
+      "sha256": "8297ddc919ef6cd98b8c573652a8fdf35190300b5c05f382fc063efe760238bc"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/autocorrect.strings",
+      "sha256": "e853669ec4ec2e4ed02ea4778dc7f75239b9bf851ec8a4ff0bf6ead4b5cb4e4c"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/develop_presets.strings",
+      "sha256": "d728ad908aa4c69c466ee71a08a15dcbabe429a36e5195fb23ccec767e6eb42b"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/doc_presets.strings",
+      "sha256": "f16acaa5dfbe829cdbfb65584fc5daabd9188c7f838bbe4bc2f0344ea95d4bd6"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/doc_spread_presets.strings",
+      "sha256": "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/drawing_brushes.strings",
+      "sha256": "e1ac73e806e8472332b4a608b2b83a36316c4393356792ec7d0b98bf5b7ed484"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/fills.strings",
+      "sha256": "974ba53dcf90e160bb45de1ca257ea2611f20552d88371c5504a22cc7659def1"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/grid_presets.strings",
+      "sha256": "dca4692f7eeaf8516b7c4cbfadbe2c7b766819f026d2fedfb6a06d9474c8924c"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/livemask_presets.strings",
+      "sha256": "37c43b3ab6407bc2462592679ebfb94013a2d486aaedec8d30ccad3cbfa5fb5e"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/macros.strings",
+      "sha256": "9d2bfdbcb7102ed068107321056226a4bf69ea6df45c164a38cd2bf094aebb11"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/objectstyles.strings",
+      "sha256": "917daa8431cade062fba3ced78342f62fcb3375c7ae1337df19a4a1dccba25d0"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/preflight_presets.strings",
+      "sha256": "3464c111aaf7a30f5242ab3f4b49343921e69d33df6bab7b8790907e571b6d43"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/raster_brushes.strings",
+      "sha256": "de141279da661097e07448d198587301966d470fc5a9b721d638ed173d012156"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/scripts.strings",
+      "sha256": "124e3246446f33d6419e5f8639f873c7e52185ceb5f79c69c84dfaa15f0b06c6"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/studios.strings",
+      "sha256": "cc6d675b2583c499c19c639476cc57d07b4bdd06f716a075e6e3f8b04722da0c"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/title_exceptions.strings",
+      "sha256": "d4a561e261c34188ca763795047ab3dd7582d37ee7fa419fd6569110e0864db9"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/tone_map.strings",
+      "sha256": "f7a4350a8988df2a6c7e3dcf5bbf1c876fcb295fde0c795909cbb91bdf0df4f6"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/tool_settings.strings",
+      "sha256": "544990fa944808c9332a3be45272d8682d9cabc6a30e31be9a17187bf4366295"
+    },
+    {
+      "path": "Resources/Affinity/zh-Hant.lproj/vector_brushes.strings",
+      "sha256": "e7c11715eb03b84f9ade13a5c016584214ab57e856e32225dfef8ff8dcd43b4f"
+    },
+    {
+      "path": "zh-Hant/Serif.Affinity.resources.dll",
+      "sha256": "62520d4beb4fca6d32e8af29841aba549d70fe75a4a6199e826783c509a94f1a"
+    },
+    {
+      "path": "zh-Hant/Serif.Interop.Persona.resources.dll",
+      "sha256": "c27f3e9482286d7eb0bc3be8cea5eccee4ad1536f440da5f83fa7ebc9618a73b"
+    },
+    {
+      "path": "zh-Hant/Serif.Windows.resources.dll",
+      "sha256": "67fcfaf38914305a8e552d7ed33a825aa9437ab9e0323768ba611dc5cbba4143"
+    }
+  ]
+}

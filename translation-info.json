@@ -1,0 +1,31 @@
+{
+  "unofficial": true,
+  "version": "3.3.3.5004",
+  "architecture": "x64",
+  "culture": "zh-Hant",
+  "sourceAuthor": "麥金塔正體中文套件製作所",
+  "sourceAuthorURL": "https://vocus.cc/salon/zhtw_patch_field",
+  "macPackageSha256": "59affa4285df0dd6e17c83b248f35c1fa7301ac3af4b43068f79816ad3bf33ff",
+  "dllStrings": 24460,
+  "supportingStringEntries": 6585,
+  "allMethods": {
+    "Mac-key": 23980,
+    "Mac-text": 4762,
+    "Mac-text-mnemonic": 179,
+    "OpenCC-Taiwan": 2124
+  },
+  "validatedOn": "2026-11-16",
+  "validation": [
+    "Official MSI 3.3.3.5004 launches from normal Affinity shortcut",
+    "Traditional Chinese menus and General settings observed",
+    "Simplified and Traditional Chinese both listed; Traditional selected",
+    "All 24 original Simplified Chinese resource hashes preserved",
+    "Old MSIX removed after profile backup; sole installed app entry launches MSI with Traditional Chinese retained",
+    "Installer install-verify-remove round trip passed on isolated test copy"
+  ],
+  "limitations": [
+    "Not every dialog or string reviewed by a human",
+    "Online content may remain in English",
+    "Only this exact x64 build is supported"
+  ]
+}
